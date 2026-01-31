@@ -1,0 +1,65 @@
+The Goal is to create a 2D crossy road game in Python, using Pygame. Here are some specifications:
+
+1. Use object-oriented design
+2. Player moves one tile per key pressed 
+3. Cars move horizontally at different speeds
+4. Player dies if hit by a car
+5. Increase Difficulty over Time
+6. Keep a score
+7. Output the Runnable Code in One File.
+
+
+Function Part is working. Improve the Following:
+
+1. Switch the blocks with images of cartoon cars.
+2. There are bugs when the green bars shift arounds.
+3. Add a pop-up window telling the user the game is over.
+
+
+The general ideas are good. Add the following features.
+
+1. Add a page to start the game. It should include a highest score, a play button, and setting to switch potential themes. You do not have to implement the themes now.
+2. Add the highest score feature to keep the records.
+3. Add the feature to more right and left.
+
+
+Nice Idea. Consider further implementing.
+
+1. Implement a Urban Style Home Page.
+2. Add more themes to choose from.
+3. Add skins for the user.
+4. Allow moving in each direction by continuing pressing on one key.
+
+Implement:
+
+1. The home page is moving too fast. Consider more smooth movements.
+2. Add instruction to the user how to switch skins or themes. The Cars in each theme should be more detailed.
+
+
+Implement:
+
+1. The home page is flashing too much. Fix it by less movements.
+2. Switch the homepage theme with the switch of theme. The instruction for switching the themes are too rigid, fix it by using different font and puting the corresponding key next too the arrow.
+
+
+Nice Idea.
+
+1. Do Not remove the current codes and add back the details for the cars in each the themes.
+2. Consider making the background of the home page not moving and much more details.
+
+
+Nice. No more functional changes are needed. However,
+
+1. Add more detailed home page. Change the font.
+2. Add more detailed cars in each of the themes. Very detailed.
+
+
+Problems: 
+
+1. The change theme key is closing the window. 
+2. The 'clouds' on the classic theme is covering the title
+
+
+Problems: 
+1. There is an error raised when changing the theme. TypeError: 'float' object cannot be interpreted as an integer. 
+2. Add some more level of the details to the cars. Expected Lines of code is 350-400. 
