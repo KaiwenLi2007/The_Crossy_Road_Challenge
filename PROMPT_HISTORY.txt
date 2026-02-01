@@ -1,3 +1,11 @@
+I used Gemini for this project and decided to start with the most basic 
+frame, prioritizing core mechanics first. Then, I incrementally added 
+more element and features, focusing on visual presentation and user experience. 
+I used Gemini 2.0 Flash to handle rapid code generation and debugging, 
+ensuring efficiency in an 1-hour limit. 
+
+
+
 The Goal is to create a 2D crossy road game in Python, using Pygame. Here are some specifications:
 
 1. Use object-oriented design
